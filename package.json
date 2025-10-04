@@ -1,0 +1,14 @@
+{
+  "name": "stun-server",
+  "version": "1.0.0",
+  "description": "A lightweight STUN server for CrypSend using ministun",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "YourName",
+  "license": "MIT",
+  "dependencies": {
+    "ministun": "^1.0.0"
+  }
+}
