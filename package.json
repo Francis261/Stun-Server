@@ -9,6 +9,6 @@
   "author": "YourName",
   "license": "MIT",
   "dependencies": {
-    "ministun": "^1.0.0"
+    "ministun": "^1.0.6"
   }
 }
